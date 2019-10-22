@@ -1,4 +1,4 @@
-dist: trusty
+CF_USERNAMEdist: trusty
 sudo: false
 notifications:
   email: false
