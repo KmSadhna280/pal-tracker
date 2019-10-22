@@ -36,6 +36,7 @@ public class EnvController {
         env.put("CF_INSTANCE_INDEX", cfInstanceIndex);
         env.put("CF_INSTANCE_ADDR", cfInstanceAddress);
 
+        System.out.println("Test");
         return env;
     }
 }
